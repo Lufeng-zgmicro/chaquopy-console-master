@@ -1,0 +1,19 @@
+0-- ./demo_check-1\check_tone.wav:have ==== 1 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 0.0 second
+1-- ./demo_check-1\OUT_pb-20210417-140908F6_Single_083.wav:have ==== 2 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 2.25 second
+       |-- time1: 0.0 hour-- 0.0 min-- 2.5 second
+2-- ./demo_check-1\OUT_pb-20210417-140908F6_Single_083_dual.wav:have ==== 2 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 2.25 second
+       |-- time1: 0.0 hour-- 0.0 min-- 2.5 second
+3-- ./demo_check-1\设备2_OUT_pb-20210417-151235F6_PB_008.wav:have ==== 2 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 2.25 second
+       |-- time1: 0.0 hour-- 0.0 min-- 2.5 second
+4-- ./demo_check-1\设备2_OUT_pb-20210417-153420F6_PB_050-dual.wav:have ==== 3 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 2.0 second
+       |-- time1: 0.0 hour-- 0.0 min-- 2.25 second
+       |-- time2: 0.0 hour-- 0.0 min-- 2.5 second
+5-- ./demo_check-1\设备2_OUT_pb-20210417-153420F6_PB_050.wav:have ==== 3 pop sounds
+       |-- time0: 0.0 hour-- 0.0 min-- 2.0 second
+       |-- time1: 0.0 hour-- 0.0 min-- 2.25 second
+       |-- time2: 0.0 hour-- 0.0 min-- 2.5 second
